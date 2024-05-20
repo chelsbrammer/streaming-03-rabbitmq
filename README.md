@@ -1,4 +1,5 @@
 # streaming-03-rabbitmq
+## Chelsea Brammer 5/19/24
 
 > Get started with RabbitMQ, a message broker, that enables multiple processes to communicate reliably through an intermediary.
 
